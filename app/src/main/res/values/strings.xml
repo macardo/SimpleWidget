@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleWidget</string>
+    <string name="textView">通过 @string/name 引入的文本内容</string>
+</resources>
